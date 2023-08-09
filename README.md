@@ -28,6 +28,7 @@
 - AutoMapper
 - Validation
 - Search
+- Filtering
 - Sort
 - Data Shaper
 
